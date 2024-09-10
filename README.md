@@ -1,6 +1,6 @@
 # Form-validation Weather-box theme-selection
 
-## A page with three sections of functionalities.
+## A page with three sections of functionalities
 
 Three sections of Theme-selection, Form-validation and a simple weather-box.
 
