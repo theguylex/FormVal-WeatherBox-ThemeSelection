@@ -16,6 +16,7 @@ body.blue-theme {
     background-color: blue;
     color: yellow;
 }
+
 #theme-section, #form-section, #weather-section {
     margin-top: 20px;
 }
@@ -32,6 +33,7 @@ h2 {
 .container {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 #theme-section, #form-section, #weather-section {
@@ -64,7 +66,6 @@ h2 {
 .blue-theme #weather-section {
     border: 2px solid yellow;
 }
-
 
 select {
     margin-top: 10px;
